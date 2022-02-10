@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/play-mc.fr/static/css/main.a2bba62b.css",
-    "main.js": "/play-mc.fr/static/js/main.48632dc1.js",
+    "main.js": "/play-mc.fr/static/js/main.0cc815f2.js",
     "static/media/W_600.woff": "/play-mc.fr/static/media/W_600.caae8d9abdbee216a4ca.woff",
     "static/media/W_700.woff": "/play-mc.fr/static/media/W_700.ee4a7c9c3fe1da4bd804.woff",
     "static/media/W_300.woff": "/play-mc.fr/static/media/W_300.f3ef6ad3602078a20fd5.woff",
@@ -9,10 +9,10 @@
     "static/media/W_500.woff": "/play-mc.fr/static/media/W_500.c267a17da13d9a7c3ba0.woff",
     "index.html": "/play-mc.fr/index.html",
     "main.a2bba62b.css.map": "/play-mc.fr/static/css/main.a2bba62b.css.map",
-    "main.48632dc1.js.map": "/play-mc.fr/static/js/main.48632dc1.js.map"
+    "main.0cc815f2.js.map": "/play-mc.fr/static/js/main.0cc815f2.js.map"
   },
   "entrypoints": [
     "static/css/main.a2bba62b.css",
-    "static/js/main.48632dc1.js"
+    "static/js/main.0cc815f2.js"
   ]
 }
