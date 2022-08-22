@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/play-mc.fr/static/css/main.99d6cc9e.css",
-    "main.js": "/play-mc.fr/static/js/main.531537fa.js",
+    "main.css": "/play-mc.fr/static/css/main.7259dd9b.css",
+    "main.js": "/play-mc.fr/static/js/main.aca20064.js",
     "static/media/minecraftia.woff": "/play-mc.fr/static/media/minecraftia.bc5416be20a97848113e.woff",
     "static/media/mcffr.woff": "/play-mc.fr/static/media/mcffr.aa63d96ded4f2fb39f51.woff",
     "index.html": "/play-mc.fr/index.html",
-    "main.99d6cc9e.css.map": "/play-mc.fr/static/css/main.99d6cc9e.css.map",
-    "main.531537fa.js.map": "/play-mc.fr/static/js/main.531537fa.js.map"
+    "main.7259dd9b.css.map": "/play-mc.fr/static/css/main.7259dd9b.css.map",
+    "main.aca20064.js.map": "/play-mc.fr/static/js/main.aca20064.js.map"
   },
   "entrypoints": [
-    "static/css/main.99d6cc9e.css",
-    "static/js/main.531537fa.js"
+    "static/css/main.7259dd9b.css",
+    "static/js/main.aca20064.js"
   ]
 }
