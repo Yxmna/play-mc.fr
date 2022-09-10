@@ -1,8 +1,6 @@
-console.log("v0.9");
+console.log("v0.10");
 
 /* TODO:
-- Typo
-- Meilleur filtre stats pour ville
 - Sauvegarde des options
 - Pas de switch quand options
 
