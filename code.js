@@ -1,4 +1,4 @@
-console.log("v0.11");
+console.log("v0.12");
 
 /* TODO:
 - Sauvegarde des options
